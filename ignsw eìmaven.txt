@@ -1,0 +1,12 @@
+maven è un file che modifica il progetto (xml)
+processo di building trasforma il codice nel sw
+compilazione da classi a bitecode? per la jvm
+risulatato della building è un file .jar (unione di bitecode)
+repository sono contenitori di progetti (locali cartella nel pc .m2 è deposito locale di maven e sono principalmente librerie, remoti )
+pom è n xml che rappresenta le info del progetto
+coordinate maven sono groupid(azienda che produce sw) e artifactid(identifica il progetto nella compagnia) e versione del sw
+per aggiungerre una dipendenza bisogna specificare le coordinate della dipendenza
+scope indica fino a che punto va utilizzata la libreria
+site richiede un plug in trova sulla javadoc
+
+prova commit
